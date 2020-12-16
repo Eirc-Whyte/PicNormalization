@@ -11,3 +11,10 @@ python picNormalize.py -f [输入目录名] -o [输出目录名] -s [输出文�
 ```
 
 脚本会将输入目录二级文件夹中图片输出到输出目录名下对应的文件夹
+
+例如：
+
+```
+python picNormalize.py -f ./competotion -o ./img -s 128
+```
+
